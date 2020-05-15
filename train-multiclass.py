@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1EKGTJwGHTgqis9KHkLMa61KXKbrxccUB
 """
 
-from google.colab import drive
-drive.mount('/content/drive/')
+
 
 import sys
 import os
